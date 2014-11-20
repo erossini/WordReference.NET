@@ -1,0 +1,5 @@
+C:\Users\e.rossini\Desktop\WordReference.NET-master\Build\WordReference.dll
+C:\Users\e.rossini\Desktop\WordReference.NET-master\Build\WordReference.pdb
+C:\Users\e.rossini\Desktop\WordReference.NET-master\WordReference.NET\obj\Debug\WordReference.NET.csprojResolveAssemblyReference.cache
+C:\Users\e.rossini\Desktop\WordReference.NET-master\WordReference.NET\obj\Debug\WordReference.dll
+C:\Users\e.rossini\Desktop\WordReference.NET-master\WordReference.NET\obj\Debug\WordReference.pdb

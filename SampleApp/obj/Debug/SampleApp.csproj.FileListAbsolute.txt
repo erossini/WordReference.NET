@@ -1,0 +1,7 @@
+C:\Users\e.rossini\Desktop\WordReference.NET-master\Build\SampleApp.exe
+C:\Users\e.rossini\Desktop\WordReference.NET-master\Build\SampleApp.pdb
+C:\Users\e.rossini\Desktop\WordReference.NET-master\SampleApp\obj\Debug\SampleApp.csprojResolveAssemblyReference.cache
+C:\Users\e.rossini\Desktop\WordReference.NET-master\SampleApp\obj\Debug\SampleApp.exe
+C:\Users\e.rossini\Desktop\WordReference.NET-master\SampleApp\obj\Debug\SampleApp.pdb
+D:\WordReference.NET-master\SampleApp\obj\Debug\SampleApp.exe
+D:\WordReference.NET-master\SampleApp\obj\Debug\SampleApp.pdb
